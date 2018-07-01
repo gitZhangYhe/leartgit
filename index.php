@@ -5,3 +5,7 @@
  * CreateTime: 2018/7/1 上午10:18
  */
 echo "hello,world";
+ function save()
+{
+  echo 1;
+}
